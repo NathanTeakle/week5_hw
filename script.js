@@ -4,7 +4,7 @@ $(document).ready(function () {
   const test = false;
 
   // get times from moment
-  const now = moment().format('MMMM Do YYYY');
+  const now = moment().format('MMMM Do, YYYY');
 
   // commented out for test in non-standard hours
   let nowHour24 = moment().format('H');
@@ -38,7 +38,7 @@ $(document).ready(function () {
     // this should only occur on first time the app is loaded in the browser
     // helpfully remind user that lunch is important
     planTextArr = new Array(9);
-    planTextArr[4] = "Add Your Tasks, Meetings or Anything!";
+    planTextArr[4] = "Picnic lunch outside";
   }
 
   if (test) {
