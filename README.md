@@ -1,8 +1,5 @@
-#Day Planner
 
-Criteria:
-
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+A simple Day Planner that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 The app should display standard business hours (9 a.m. to 5 p.m.). Each time slot should represent one hour and contain the following:
 
 
@@ -20,32 +17,3 @@ Near the top of the calendar, the application should display the current day. Ad
 You'll need to use the Moment.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.`
 
 
-Minimum Requirements
-
-
-Functional, deployed application.
-
-
-GitHub repository with a unique name and a README describing project.
-
-
-The application displays timeblocks for standard business hours (9 a.m. to 5 p.m.).
-
-
-Each timeblock contains an input field and save button.
-
-
-Clicking a timeblock's "Save" button stores the input text in local storage, allowing the text to persist when the application is refreshed.
-
-
-The current day is displayed at the top of the calendar.
-
-
-Each timeblock is color coded to indicate whether it is in a past, present, or future hour.
-
-
-GIVEN that an employee adds events to a specific hour in a calendar
-
-WHEN the employee clicks the save button
-
-THEN events are saved in the timeblock for that hour
