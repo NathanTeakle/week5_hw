@@ -1,4 +1,7 @@
 
+<img width="1394" alt="Screen Shot 2020-03-20 at 11 57 28 pm" src="https://user-images.githubusercontent.com/59923059/77168047-176a3180-6b07-11ea-9cb8-f83fe094b937.png">
+
+
 A simple Day Planner that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 The app should display standard business hours (9 a.m. to 5 p.m.). Each time slot should represent one hour and contain the following:
 
