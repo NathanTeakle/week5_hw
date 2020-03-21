@@ -1,5 +1,4 @@
-
-<img width="1394" alt="Screen Shot 2020-03-20 at 11 57 28 pm" src="https://user-images.githubusercontent.com/59923059/77168047-176a3180-6b07-11ea-9cb8-f83fe094b937.png">
+<img width="1386" alt="Screen Shot 2020-03-21 at 1 13 47 pm" src="https://user-images.githubusercontent.com/59923059/77217875-d6f5cc80-6b75-11ea-9037-f9a985ed5416.png">
 
 
 A simple Day Planner that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
